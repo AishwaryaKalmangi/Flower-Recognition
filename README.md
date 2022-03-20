@@ -2,7 +2,8 @@
 1.Importing all the required modules to run our code
 2. Use the ImageFolder present in torchvision.datasets to first prepare datasets
 3.The images are unstructured data we need to convert them to tensors. 
-
+4.The dataset is adjusted as 70%, 10%, and 20% testing
+rates for training, validation, and test sets respectively
 
 Note: As classification of flower
 species is an important task, it is commonly studied and many
