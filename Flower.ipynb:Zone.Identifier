@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=2
+ReferrerUrl=http://localhost:8889/notebooks/Desktop/DataMining/Flower/Flower.ipynb
+HostUrl=http://localhost:8889/nbconvert/notebook/Desktop/DataMining/Flower/Flower.ipynb?download=true
