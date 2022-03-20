@@ -1,9 +1,11 @@
 # Flower-Recognition
 1.Importing all the required modules to run our code
-2. Use the ImageFolder present in torchvision.datasets to first prepare datasets
+2. Data Augumentation and Normalization: This is to prevent overfitting.
+    Normalization help neural net to ensure the input data always is within a certain numeric boundary.
 3.The images are unstructured data we need to convert them to tensors. 
-4.The dataset is adjusted as 70%, 10%, and 20% testing
-rates for training, validation, and test sets respectively
+4.We should load the image using loader so the datasets can be fed in batches every-time and we can optimize efficiency.
+5.The dataset is adjusted as 70%, 10%, and 20% testing
+rates for training, validation, and test sets respectively.
 
 Note: As classification of flower
 species is an important task, it is commonly studied and many
