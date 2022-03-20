@@ -17,3 +17,6 @@ performances have been achieved with CNNs. CNN
 accomplishes the need for robustness and eliminated the need for
 manual features. CNNs are similar to neural networks but do not
 require feature engineering (Narvekar & Rao, 2020)
+
+
+References: https://dergipark.org.tr/en/download/article-file/2144427
